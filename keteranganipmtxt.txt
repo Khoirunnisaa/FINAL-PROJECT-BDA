@@ -1,0 +1,7 @@
+KETERANGAN KOLOM
+AHH	: Angka Harapan Hidup
+HLS	: Harapan rata2 Lama Sekolah
+RLS	: Rata2 Lama Sekolah
+PKD	: Pengeluaran per Kapita per Daerah
+IPM	: Indeks Pembangunan Manusia
+Pertumbuhan : Selisih IPM 2017-2018 (IPM 2018 - IPM 2017)
