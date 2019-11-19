@@ -1,0 +1,35 @@
+Provinsi	AHH	HLS	RLS	PKD	IPM	Pertumbuhan	Klasifikasi
+Aceh 	69.64	14.27	9.09	9186	71.19	0.84	tinggi
+Sumatera Utara 	68.61	13.14	9.34	10391	71.18	0.86	tinggi
+Sumatera Barat 	69.01	13.95	8.76	10638	71.73	0.69	tinggi
+Riau 	71.19	13.11	8.92	10968	72.44	0.91	tinggi
+Jambi 	70.89	12.9	8.23	10357	70.65	0.94	tinggi
+Sumatera Selatan 	69.41	12.36	8	10652	69.39	0.77	sedang
+Bengkulu 	68.84	13.58	8.61	10162	70.64	0.99	tinggi
+Lampung 	70.18	12.61	7.82	9858	69.02	1.13	sedang
+Kepulauan Bangka Belitung 	70.18	11.87	7.84	12666	70.67	0.97	tinggi
+Kepulauan Riau 	69.64	12.82	9.81	13976	74.84	0.52	tinggi
+DKI Jakarta 	72.67	12.95	11.05	18128	80.47	0.51	sangat tinggi
+Jawa Barat 	72.66	12.45	8.15	10790	71.3	0.86	tinggi
+Jawa Tengah 	74.18	12.63	7.35	10777	71.12	0.85	tinggi
+DI Yogyakarta 	74.82	15.56	9.32	13946	79.53	0.81	tinggi
+Jawa Timur 	70.97	13.1	7.39	11380	70.77	0.71	tinggi
+Banten 	69.64	12.85	8.62	11994	71.95	0.74	tinggi
+Bali 	71.68	13.23	8.65	13886	74.77	0.63	tinggi
+Nusa Tenggara Barat 	65.87	13.47	7.03	10284	67.3	1.08	sedang
+Nusa Tenggara Timur 	66.38	13.1	7.3	7566	64.39	1.04	sedang
+Kalimantan Barat 	70.18	12.55	7.12	8860	66.98	1.09	sedang
+Kalimantan Tengah 	69.64	12.55	8.37	10931	70.42	0.9	tinggi
+Kalimantan Selatan 	68.23	12.5	8	12062	70.17	0.75	tinggi
+Kalimantan Timur 	73.96	13.67	9.48	11917	75.83	0.95	tinggi
+Kalimantan Utara 	72.5	12.82	8.87	8943	70.56	1.03	tinggi
+Sulawesi Utara 	71.26	12.68	9.24	10731	72.2	0.75	tinggi
+Sulawesi Tengah 	67.78	13.13	8.52	9488	68.88	1.13	sedang
+Sulawesi Selatan 	70.08	13.34	8.02	10814	70.9	0.8	tinggi
+Sulawesi Tenggara 	70.72	13.53	8.69	9262	70.61	1.7	tinggi
+Gorontalo 	67.45	13.03	7.46	9839	67.71	1.04	sedang
+Sulawesi Barat 	64.58	12.59	7.5	9051	65.1	1.24	sedang
+Maluku 	65.59	13.92	9.58	8721	68.87	1	sedang
+Maluku Utara 	67.8	13.62	8.72	7980	67.76	0.83	sedang
+Papua Barat 	65.55	12.53	7.27	7816	63.74	1.19	sedang
+Papua 	65.36	10.83	6.52	7159	60.06	1.64	sedang
